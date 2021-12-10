@@ -1,0 +1,10 @@
+body {
+	background-color: #1e1e1e;
+    color: white
+}
+.instagramBUTTON {
+	background-color: #f78fa1;
+	border-color: #f78fa1;
+	height: 30px;
+	width: 105px
+}
