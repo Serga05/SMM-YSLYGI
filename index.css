@@ -1,0 +1,36 @@
+body {
+	background-color: #1e1e1e;
+    color: white;
+	max-width: 500px;
+	max-height: 700px;
+}
+.instagramBUTTON {
+	background-color: #f78fa1;
+	border-color: #f78fa1;
+	height: 30px;
+	width: 105px;
+    color: black
+}
+.button-BACK {
+	background-color: gold;
+	border-color: gold;
+    width: 105px;
+	height: 30px	
+}
+.NEXT-text-BUTTON {
+	background-color: red;
+	border-color: red;
+	width: 105px;
+	height: 30px
+}
+.hight {
+    border-bottom: 1px solid grey; 
+   }
+.my-works {
+    width: 105px;
+	height: 30px;
+	background-color: aqua;
+	border-color: aqua;
+	color: black;
+}
+	
